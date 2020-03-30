@@ -1,1 +1,1 @@
-# Arquivo da web - nova plataforma
+# Arquivo da web (nova plataforma)
